@@ -1,0 +1,6 @@
+[submodule "backend/fitness-social-media-backend"]
+	path = backend/fitness-social-media-backend
+	url = https://github.com/your_username/fitness-social-media-backend.git
+[submodule "frontend/fitness-social-media-frontend"]
+	path = frontend/fitness-social-media-frontend
+	url = https://github.com/your_username/fitness-social-media-frontend.git
